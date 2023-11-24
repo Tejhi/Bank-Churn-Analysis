@@ -7,7 +7,8 @@ gathered information from multiple data assets including ActiveCustomer, Bank_Ch
   - Excel - Data cleaning
   - SQl - Data Analysis
   - PowerBI - Data Modeling and Creating Reports
-## Steps Followed
+## Approach
+- Going through the Business requirements document
 - Data processing - Cleaning, fixing datatype errors, transformed the data in Power Query Editor and loaded the data on PowerBI desktop
 - Data Modeling - Connects the dimension tables with a main Fact table by proper Relationships
 - DAX Query and Data Analysis - Created measures to fetch customer churn rate using DAX and Also created measures for Time Intelligence Functions
